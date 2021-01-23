@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.2f3ff7ce.chunk.js",
-    "main.js.map": "/static/js/main.2f3ff7ce.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6c285467.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6c285467.js.map",
-    "static/js/2.4374dc7d.chunk.js": "/static/js/2.4374dc7d.chunk.js",
-    "static/js/2.4374dc7d.chunk.js.map": "/static/js/2.4374dc7d.chunk.js.map",
-    "static/js/3.56559710.chunk.js": "/static/js/3.56559710.chunk.js",
-    "static/js/3.56559710.chunk.js.map": "/static/js/3.56559710.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4374dc7d.chunk.js.LICENSE.txt": "/static/js/2.4374dc7d.chunk.js.LICENSE.txt",
-    "static/media/movies.cdfae65c.svg": "/static/media/movies.cdfae65c.svg",
-    "static/media/series.6f8c9841.svg": "/static/media/series.6f8c9841.svg"
+    "main.css": "/cast-app-challenge/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cast-app-challenge/static/js/main.2f3ff7ce.chunk.js",
+    "main.js.map": "/cast-app-challenge/static/js/main.2f3ff7ce.chunk.js.map",
+    "runtime-main.js": "/cast-app-challenge/static/js/runtime-main.3fc2721f.js",
+    "runtime-main.js.map": "/cast-app-challenge/static/js/runtime-main.3fc2721f.js.map",
+    "static/js/2.4374dc7d.chunk.js": "/cast-app-challenge/static/js/2.4374dc7d.chunk.js",
+    "static/js/2.4374dc7d.chunk.js.map": "/cast-app-challenge/static/js/2.4374dc7d.chunk.js.map",
+    "static/js/3.56559710.chunk.js": "/cast-app-challenge/static/js/3.56559710.chunk.js",
+    "static/js/3.56559710.chunk.js.map": "/cast-app-challenge/static/js/3.56559710.chunk.js.map",
+    "index.html": "/cast-app-challenge/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cast-app-challenge/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4374dc7d.chunk.js.LICENSE.txt": "/cast-app-challenge/static/js/2.4374dc7d.chunk.js.LICENSE.txt",
+    "static/media/movies.cdfae65c.svg": "/cast-app-challenge/static/media/movies.cdfae65c.svg",
+    "static/media/series.6f8c9841.svg": "/cast-app-challenge/static/media/series.6f8c9841.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c285467.js",
+    "static/js/runtime-main.3fc2721f.js",
     "static/js/2.4374dc7d.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.2f3ff7ce.chunk.js"
